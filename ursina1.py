@@ -22,4 +22,4 @@ def update():
         test1.rotation_x-=30*time.dt
     elif held_keys['down arrow']:
         test1.rotation_x+=30*time.dt
-screen.run()W
+screen.run()
