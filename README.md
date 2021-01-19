@@ -20,5 +20,5 @@ How to install Ursina Engine
 1- Make sure you have python
 2- Run Command Prompt/Terminal as administrater and run the following command :-  pip install ursina
 
-Hoow to run the code 
+How to run the code 
 1- run the run.py file
